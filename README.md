@@ -1,5 +1,9 @@
 # stargate-roles-stake-farm
 Оригинал: https://github.com/razeb-in-sec/stargate-roles-stake-farm
+
+# Видео для запуска на Windows
+https://www.youtube.com/watch?v=NByZEnvVmjQ
+
 # Команды для запуска на Ubuntu
 Скачать репозиторий
 ```

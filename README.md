@@ -4,6 +4,21 @@
 # Видео для запуска на Windows
 https://www.youtube.com/watch?v=NByZEnvVmjQ
 
+> ВАЖНО: в именах папок не должно быть пробелов!!!!
+
+Делаем все по видео гайду.
+
+#### Команды установки пакетов в видео
+Для удобства вставлю здесь команды которые запускаются в видео.
+- Это установка нужной версии библиотеки Web3:
+```
+pip install web3==5.31.1
+```
+- Это остальные пакеты:
+```
+pip install web3 requests datetime termcolor cprint time json random syspip install tqdm ccxt loguru termcolor telebot pyuseragents tabulate
+```
+
 # Команды для запуска на Ubuntu
 Скачать репозиторий
 ```
